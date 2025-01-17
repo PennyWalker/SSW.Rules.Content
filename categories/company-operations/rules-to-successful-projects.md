@@ -5,7 +5,7 @@ guid: 1ee334eb-2539-4df2-bdae-51c3b6ed3d43
 uri: rules-to-successful-projects
 index:
 - the-value-of-consistency
-- continual-improvement
+- wise-men-improve-rules
 - autonomy-mastery-and-purpose
 - do-you-manage-clients-expectations
 - deadlines-and-sprints
@@ -51,7 +51,7 @@ index:
 - do-you-know-you-should-always-use-a-source-control-system
 - do-you-know-what-to-look-out-for-when-signing-legal-documents
 - ask-clients-approval
-- efficiency-do-you-always-try-to-work-in-pairs-1
+- work-in-pairs
 - do-you-perform-migration-procedures-with-an-approved-release-plan
 - do-you-know-you-should-always-refer-to-rules-instead-of-explaining-it
 - do-you-reward-your-developers-for-completing-a-release-on-time-and-budget
@@ -70,7 +70,7 @@ index:
 - management-do-you-have-a-release-update-debrief-meeting-on-a-weekly-basis
 - management-do-you-know-who-has-authority
 - have-an-induction-program
-- do-you-identify-development-test-and-production-crm-web-servers-by-colors
+- identify-crm-web-servers-by-colors
 - record-a-quick-and-dirty-done-video
 - the-best-way-to-learn
 - use-the-brains-of-your-company

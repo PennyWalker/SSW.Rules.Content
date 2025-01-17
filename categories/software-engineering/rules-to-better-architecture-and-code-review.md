@@ -14,8 +14,7 @@ index:
   - do-you-document-the-technologies-design-patterns-and-alm-processes
   - spike-vs-poc
   - look-at-the-architecture-of-javascript-projects
-  - do-you-look-at-the-architecture
-  - do-you-generate-the-vs-dependency-graph
+  - generate-dependency-graphs
   - do-you-know-how-to-laser-in-on-the-smelliest-code
   - do-you-know-the-common-design-principles-part-1
   - do-you-know-the-common-design-principles-part-2-example
@@ -41,7 +40,7 @@ index:
   - do-you-know-what-to-do-about-asp-net-core-aka-asp-net-5-default-dependency-injection
   - do-you-use-subdomains-instead-of-virtual-directories
   - do-you-use-the-best-middle-tier-net-libraries
-  - do-you-use-the-best-web-ui-libraries
+  - web-ui-libraries
   - do-you-use-your-ioc-container-to-inject-dependencies-and-not-as-a-singleton-container
   - technical-debt
   - just-enough-refactoring
@@ -60,6 +59,7 @@ index:
   - use-prefixes-to-improve-code-review-communication
   - use-mass-transit
   - software-architecture-decision-tree
+  - multi-tenancy-models
 ---
 
 For any project that is critical to the business, it’s important to do ‘Modern Architecture Reviews’. Being an architect is fun, you get to design the system, do ongoing code reviews, and play the bad ass. It is even more fun when using modern cool tools.

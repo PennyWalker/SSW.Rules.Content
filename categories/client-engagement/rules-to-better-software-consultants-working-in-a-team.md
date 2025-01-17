@@ -4,7 +4,7 @@ title: Rules to Better Software Consultants - Working in a Team
 guid: 99fb319c-14d5-482f-bf74-b851a56cebb0
 uri: rules-to-better-software-consultants-working-in-a-team
 index:
-- continual-improvement
+- wise-men-improve-rules
 - professional-integrity
 - professional-integrity-tools
 - strong-suits
@@ -22,14 +22,16 @@ index:
 - send-done-videos
 - how-to-take-feedback-or-criticism
 - understand-the-power-of-empathy
+- handle-passive-aggressive-comments
 - go-the-extra-mile
 - browser-remove-clutter
 - standards-watchdog
+- keep-developers-away-from-design-work
 - what-is-mentoring
 - mentoring-programs
 - do-you-ask-questions-where-youre-stuck
 - how-to-avoid-being-blocked
-- do-you-cc-your-account-manager-on-emails-relating-to-new-work
+- cc-account-manager-on-emails-related-to-new-work
 - do-you-enjoy-your-job
 - do-you-create-a-report-whenever-you-need-a-number-from-a-system
 - do-you-give-120-when-deadlines-are-tight
@@ -82,6 +84,8 @@ index:
 - gather-team-opinions
 - call-your-system-administrators-before-raising-a-ticket
 - do-you-use-suspend-on-your-notebook
+- microsoft-planner-for-tasks
 
 ---
- 
+
+Enhance software consulting practices by exploring essential principles that focus on teamwork, communication, and professionalism. Discover key rules designed to foster collaboration and integrity among consultants.
