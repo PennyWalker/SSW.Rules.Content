@@ -17,6 +17,7 @@ index:
 - open-policy-personal-data-breaches
 - do-you-use-built-in-authentication-from-ms
 - use-automatic-key-management-with-duende-identityserver
+- security-email-account
 - do-you-disable-insecure-protocols
 - password-manager
 - secure-password-share
@@ -31,6 +32,10 @@ index:
 - migrate-an-existing-user-store-to-an-externalauthprovider
 - modern-stateless-authentication
 - securely-share-sensitive-information
+- use-eye-toggle-to-see-password
+- penetration-testing
+- sysadmin-cybersecurity-tools
+- developer-cybersecurity-tools
 ---
 
 Want to avoid embarrassing or expensive data breaches? Check [SSW's Security consulting page](https://www.ssw.com.au/consulting/security).

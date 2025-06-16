@@ -6,6 +6,7 @@ uri: rules-to-better-websites-layout-and-formatting
 index:
 - cta-banana-rule
 - keep-developers-away-from-design-work
+- trim-input-whitespace
 - forms-do-you-indicate-which-fields-are-required-and-validate-them
 - forms-do-you-know-when-to-use-links-and-when-to-use-buttons
 - forms-do-you-include-the-number-of-results-in-comboboxes
@@ -14,6 +15,7 @@ index:
 - add-useful-and-concise-figure-captions
 - use-bad-and-good-examples
 - avoid-unnecessary-css-classes
+- css-frameworks
 - css-changes
 - use-the-right-html-figure-caption
 - do-you-always-acknowledge-your-work
@@ -37,12 +39,12 @@ index:
 - do-you-know-how-to-effectively-use-non-standard-font-on-your-website
 - do-you-know-its-important-to-make-your-fonts-different
 - do-you-avoid-having-reset-buttons-on-webforms
-- use-icons-webpages
+- enforce-the-text-meaning-with-icons-and-emojis
 - do-you-show-the-progress-and-the-total-file-size-on-downloads
 - search-results-do-you-always-give-more-information-when-searching-doesnt-find-anything
 - do-you-know-not-to-use-bold-tags-inside-headings
 - do-you-avoid-having-a-horizontal-scroll-bar
-- do-you-display-dates-in-a-human-friendly-format
+- human-friendly-date-and-time
 - address-formatting
 - do-you-help-the-user-to-enter-a-url-field
 - do-you-make-sure-that-all-your-tags-are-well-formed
@@ -51,7 +53,7 @@ index:
 - clean-no-match-found-screen
 - do-you-know-how-to-arrange-forms
 - do-you-use-list-tags-for-lists-only
-- do-you-use-gravatar-for-your-profile-pictures
+- gravatar-for-profile-management
 - do-you-use-hyperlinks-instead-of-javascript-to-open-pages
 - videos-do-you-have-a-video-on-the-homepage-of-products-websites
 - right-format-to-write-videos-time-length
@@ -70,7 +72,4 @@ index:
 - do-you-use-an-ellipsis-to-indicate-an-action-requiring-more-user-input
 - controls-do-you-include-a-select-all-checkbox-on-the-top
 - control-choice-do-you-use-comboboxes-instead-of-single-select-list-boxes
-
 ---
- 
-

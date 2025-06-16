@@ -12,7 +12,10 @@ authors:
 related:
   - when-you-use-mentions-in-a-pbi
   - avoid sending-unnecessary-messages   
-  - use-quiet-hours-in-teams      
+  - use-quiet-hours-in-teams
+  - work-in-order-of-importance-aka-priorities
+  - 4-quadrants-important-and-urgent 
+  - know-that-im-interrupts
 redirects:
   - interruptions-do-you-know-that-im-interrupts
 ---
@@ -26,7 +29,7 @@ IM is only to be used if they would like you to do something NOW.
 <!--endintro-->
 
 ::: info
-**Tip:** If someone pings you on IM (Teams / Skype) for non-urgent tasks, call the person out gently and let them know: "Since I don’t need to do this today, maybe an email would be better".
+**Tip:** If someone pings you on IM for non-urgent tasks, call the person out gently and let them know: _"Since I don’t need to do this today, maybe an email would be better"_.
 :::
 
 ![Figure: Everybody wants to stay in the zone!](focused-developer.jpg)

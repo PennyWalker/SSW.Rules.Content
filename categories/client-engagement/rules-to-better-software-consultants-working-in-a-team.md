@@ -9,6 +9,7 @@ index:
 - professional-integrity-tools
 - strong-suits
 - do-you-manage-up
+- follow-up-effectively
 - do-you-know-the-5-dysfunctions-of-a-team
 - teamwork-pillars
 - chase-the-product-owner-for-clarification
@@ -39,7 +40,7 @@ index:
 - do-you-offer-positive-feedback-to-your-team
 - do-you-offer-specific-criticism
 - do-you-only-do-what-you-think-is-right
-- do-you-have-a-dress-code
+- dress-code
 - do-you-have-your-mobile-phone-on-vibrate
 - give-enough-notice-for-annual-leave
 - purchase-please
@@ -70,7 +71,7 @@ index:
 - do-you-use-the-5s-desk-space-organization-system-invented-by-the-japanese
 - do-you-avoid-listening-to-music-while-at-work
 - the-best-chat-tools-for-your-employees
-- how-to-fix-small-web-errors
+- fix-small-web-errors
 - do-you-hold-regular-company-meetings
 - do-you-timebox-approval-requests
 - do-you-use-timeboxing-to-avoid-wasted-time
@@ -80,12 +81,11 @@ index:
 - speak-up
 - the-happiness-equation
 - build-inter-office-interaction
-- efficiency-do-you-always-try-to-work-in-pairs
+- work-in-pairs
 - gather-team-opinions
 - call-your-system-administrators-before-raising-a-ticket
 - do-you-use-suspend-on-your-notebook
 - microsoft-planner-for-tasks
-
 ---
 
 Enhance software consulting practices by exploring essential principles that focus on teamwork, communication, and professionalism. Discover key rules designed to foster collaboration and integrity among consultants.

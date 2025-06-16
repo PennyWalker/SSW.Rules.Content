@@ -13,6 +13,7 @@ index:
   - do-you-provide-numerous-comments-in-application-resources-that-define-context
   - do-you-manage-3rd-party-dependencies
   - do-you-detect-service-availability-from-the-client
+  - gravatar-for-profile-management
   - use-a-cdn
   - handle-redirects
   - add-multilingual-support-on-angular
@@ -23,7 +24,7 @@ index:
   - do-you-use-pagespeed
   - social-media-international-campaigns
   - do-you-know-how-to-use-social-media-effectively-in-china
-  - do-you-post-multilingual-posts-on-social-media
+  - multilingual-posts-on-social-media
   - china-icp-filing
   - china-icp-license
   - china-coss-border-data-transfer

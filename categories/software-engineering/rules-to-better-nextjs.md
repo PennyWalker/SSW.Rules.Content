@@ -12,8 +12,10 @@ index:
 - next-dynamic-routes
 - do-you-use-these-useful-react-hooks
 - migrate-react-to-nextjs
+- migrating-to-app-router
 - best-package-manager-for-node
 - core-web-vitals
+- use-nextjs-caching-system
 ---
 
 Want to build a web app with Next.js? Check [SSW's Next.js consulting page](https://ssw.com.au/consulting/nextjs).

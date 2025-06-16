@@ -29,13 +29,14 @@ index:
   - do-you-aim-for-an-advancement-rather-than-a-continuance
   - do-you-ensure-an-excellent-1st-date-aka-winning-customers-via-a-smaller-specification-review
   - do-you-know-when-to-use-a-round-figure-or-an-exact-figure
-  - do-you-know-how-to-manage-objections
+  - manage-objections
   - do-you-know-when-and-when-not-to-give-away-products
   - do-you-know-the-alternative-to-giving-discounts
   - do-you-set-a-specific-time-to-follow-up-a-prospect
   - do-you-follow-up-course-attendees-for-consulting-work
   - nda-gotchas
   - how-to-follow-up-a-customised-training-client
+  - follow-up-lost-opportunities
   - how-to-invoice-a-customised-training-client
   - always-propose-all-available-options
   - sales-people-to-work-together-and-keep-each-other-accountable
@@ -43,7 +44,7 @@ index:
   - when-to-go-for-a-tender
   - do-you-treat-freebies-as-real-customers
   - the-outcomes-from-your-initial-meeting
-  - scheduling-do-you-know-how-to-book-developers-for-a-project
+  - book-developers-for-a-project
   - use-esignature-solutions
   - what-currency-to-quote
   - avoid-using-too-many-decimals
