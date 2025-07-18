@@ -27,6 +27,10 @@ Creating a comprehensive summary and recording of your Sprint Meeting is a great
 
 <!--endintro-->
 
+::: info
+To keep stakeholders informed beyond the Sprint Review, you should record a [Monthly Stakeholder Video](/monthly-stakeholder-video) to share key progress, blockers, and upcoming priorities.
+:::
+
 ## Why record a summary of the Sprint Meeting?
 
 * **Clarity:** Provides a clear, accessible update for all stakeholders, including those not present
@@ -42,6 +46,12 @@ Before you start recording, ensure you have the right people ready for key roles
 * **Have someone ready to [YakShave](https://yakshaver.ai):** Designate someone to handle secondary recordings during the meeting. While the main presenter is recording the Sprint summary, this person can start separate recordings (YakShaves) to create tasks or work items as needed
 
 Having these roles clearly defined beforehand ensures a smoother recording process and better documentation of your Sprint Meeting.
+
+### Avoid long pauses
+
+During the meeting, don’t pause ask, “Does anyone have any questions?” — this often leads to awkward silence and slows down the meeting.
+
+Instead, remind the team before to **use the “Raise Hand” feature** in Microsoft Teams if they have something to say. This keeps the meeting moving and ensures everyone gets a chance to contribute without unnecessary delays.
 
 ## Record the Sprint Meeting summary
 
