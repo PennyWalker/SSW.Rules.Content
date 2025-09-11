@@ -32,17 +32,14 @@ created: 2012-08-06T05:48:37.000Z
 archivedreason: null
 guid: aac90a70-58a3-4b10-97a1-fef2dc6bda39
 ---
-After any Sprint Review and Retrospective, an email should be sent to all the stakeholders to update them on the outcome from the Sprint:
+
+After any Sprint Review and Retrospective, an email should be sent to all the stakeholders to update them on the outcome from the Sprint.
 
 <!--endintro-->
 
-Firstly, create a new email copying the information from the previous Sprint Review/Retro. As per [Do you know what happens at a Sprint Retrospective meeting?](/do-you-know-what-happens-at-a-sprint-retrospective-meeting), it should include the following:
+Learn more on [Do you know what happens at a Sprint Retrospective meeting?](/what-happens-at-retro-meetings)
 
-::: info
-
-* It's important that an [Email Group](/groups-in-microsoft-365/#microsoft-365-groups) is setup for the project, and the Sprint Review is sent to that group, so that anyone who joins the project in future can access these reports from shared inbox as per [Do you choose which Microsoft 365 Groups you follow?](/following-microsoft-365-groups)[](/following-microsoft-365-groups)
-* Move all the dones to the top of your Sprint backlog to make it easier to digest the progress for the Product Owner
-:::
+Firstly, create a new email copying the information from the previous Sprint Review/Retro.
 
 ::: email-template
 
@@ -59,8 +56,8 @@ Here are the Sprint Goals and their status at a glance:
 
 Sprint Goals (in priority order):
 
-* {{ ✅/❌/🚧 }} {{ GOAL }} – {{ DONE? }}
-* {{ ✅/❌/🚧 }} {{ GOAL }} – {{ DONE? }}
+* {{ ✅/❌ }} {{ DONE? }} - {{ GOAL }}
+* {{ ✅/❌ }} {{ DONE? }} - {{ GOAL }}
 
 Please see below for a more detailed breakdown of the Sprint:
 
@@ -163,6 +160,12 @@ Progress:
 
 * {{ PERSON }} - {{ TOOLS }}
 
+### Copilot Stats
+
+![Figure: Copilot speaking summary was {{ DURATION }} - Image from Product Owner](meeting-length.png)
+
+![Figure: Copilot showed the main action point was {{ MAIN ACTION POINT }} - Image from Product Owner](main-action-point.png)
+
 ### Sprint Retrospective
 
 As part of our commitment to inspect and adapt as a team we conduct a Sprint Retrospective at the end of every Sprint. Here are the results of our Sprint Retrospective:
@@ -200,6 +203,14 @@ As per <https://www.ssw.com.au/rules/for-the-record/>
 
 ::: good
 Figure: Good example - Template for Sprint Review/Retro email
+:::
+
+::: info
+**Note:** It's important that an [Email Group](/groups-in-microsoft-365/#microsoft-365-groups) is setup for the project, and the Sprint Review is sent to that group, so that anyone who joins the project in future can access these reports from shared inbox as per [Do you choose which Microsoft 365 Groups you follow?](/following-microsoft-365-groups)[](/following-microsoft-365-groups)
+:::
+
+::: info
+**Tip:** Move all Dones to the top of your Sprint backlog to make it easier to digest the progress for the Product Owner.
 :::
 
 ::: good

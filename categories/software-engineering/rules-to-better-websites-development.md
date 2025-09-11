@@ -53,7 +53,7 @@ index:
   - use-open-graph
   - use-server-side-comments
   - best-static-site-tech-stack
-  - use-nextjs
+  - why-nextjs-is-great
   - use-nextjs-caching-system
   - cms-solutions
   - git-based-cms-solutions
@@ -64,6 +64,7 @@ index:
   - monitor-packages-for-vulnerabilities
   - do-you-perform-migration-procedures-with-an-approved-plan
   - manage-bundle-size
+  - keep-website-loading-time-acceptable
   - best-commenting-engine
   - do-you-know-the-best-framework-to-build-an-admin-interface
 ---

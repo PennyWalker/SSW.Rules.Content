@@ -7,8 +7,10 @@ index:
 - less-is-more
 - graphic-vs-ui-ux-design
 - when-do-you-need-a-ux-designer
+- design-masters
 - double-diamond
 - software-for-ux-design
+- mix-user-research-methods
 - ai-for-ux
 - design-system
 - design-debt
