@@ -1,8 +1,8 @@
 ---
 type: rule
 tips: ""
-title: Do you follow best UI practices for destructive buttons?
-seoDescription: Learn the best UI/UX practices for designing destructive buttons, including placement, color, icons, confirmation steps, and accessibility.
+title: Do you follow best UI practices for delete buttons?
+seoDescription: Learn the best UI/UX practices for designing delete buttons, including placement, color, icons, confirmation steps, and accessibility.
 uri: destructive-button-ui-ux
 authors:
   - title: Micaela Blank
@@ -27,17 +27,17 @@ These actions need to be carefully designed with strong visual cues, clear label
 
 ## Use red for danger consistently
 
-Destructive buttons should always stand out with a **red color**. This is a well-established visual convention that immediately signals danger to users.
+Delete buttons should always stand out with a **red color**. This is a well-established visual convention that immediately signals danger to users.
 
 * Use red **only** for destructive actions (not warnings or generic alerts)
 * Avoid using red buttons for neutral or positive actions
 
 ::: bad img-medium  
-![Figure: Bad example - Wrong color for a destructive button](destruction-button-bad-color.png)
+![Figure: Bad example - Wrong color for a delete button](destruction-button-bad-color.png)
 :::
 
 ::: good img-medium  
-![Figure: Good example - Red is the right color for a destructive button](destruction-button-good-color.png)
+![Figure: Good example - Red is the right color for a delete button](destruction-button-good-color.png)
 :::
 
 ::: info
@@ -57,32 +57,32 @@ Icons make buttons faster to recognize and reduce ambiguity. A trash can icon ne
 * Avoid ambiguous or abstract icons (E.g. Broom icon (`🧹`) is used for “clear all” or “clean up", not "delete". Cross icon (`❌`) means “cancel” or "wrong", not "delete")
 
 ::: bad  
-![Figure: Bad example - Cross icon usually means "Cancel" and should be avoided for permanent deletion. The icon is also wrongly positioned on the right](destruction-button-bad-icon.png)
-:::
+![Figure: Bad example - Cross icon usually means "Cancel" and should be avoided for permanent deletion. The button is also missing a text label](destruction-button-bad-icon.png)  
+:::  
 
 ::: good  
-![Figure: Good example - Trash/Bin icon positioned on the left](destruction-button-good-icon.png)
+![Figure: Good example -  Button has a Trash/Bin icon positioned to the left of the text labe](destruction-button-good-icon.png)
 :::
 
-## Position destructive buttons with care
+## Position delete buttons with care
 
-Placing a destructive button next to a primary action (e.g. "Save" or "Confirm") is dangerous. Users may misclick due to proximity.
+Placing a delete button next to a primary action (e.g. "Save" or "Confirm") is dangerous. Users may misclick due to proximity.
 
-* Place destructive buttons away from primary actions
+* Place delete buttons away from primary actions
 * Use space or visual separation between them
 * Make destructive buttons less prominent (except when the primary purpose is deletion)
 
 ::: bad  
-![Figure: Bad example - "Delete" and "Save" are too close together can lead to accidental clicks](destruction-button-bad-positioning.png)
+![Figure: Bad example - "Delete" and "Save" are too close together, which can lead to accidental clicks](destruction-button-bad-positioning.png)
 :::
 
 ::: good  
-![Figure: Good example - "Delete" button in red, with the right icon, andvisually isolated from safe actions](destruction-button-good-positioning.png)
+![Figure: Good example - "Delete" button in red, with the right icon, and visually isolated from safe actions](destruction-button-good-positioning.png)
 :::
 
 ## Ask for confirmation when necessary
 
-Not every delete action needs a popup, but if the data is important or irreversible, you should ask the user to confirm.
+Not every destructive action needs a popup, but if the data is important or irreversible, you should ask the user to confirm.
 
 Use confirmations when:
 
@@ -90,21 +90,21 @@ Use confirmations when:
 * The user might not realize the consequences
 
 ::: good  
-![Figure: Good example - Confirming a destructive action](destruction-button-good-confirmation.png)
+![Figure: Good example - Confirming a deletion](destruction-button-good-confirmation.png)
 :::
 
 ::: info
 **Tip:** Avoid overusing confirmations as they lead to [alert fatigue](https://www.magicbell.com/blog/alert-fatigue).
 :::
 
-## Use tooltips or hover explanations
+## Use tooltips
 
 Sometimes you might have a UI with limited space that doesn’t allow text labels.
 
-For **icon-only** destructive buttons (for example, a red trash icon in a table row), always provide a tooltip on hover or focus.
+For **icon-only** delete buttons (for example, a red trash icon in a table row), always provide a tooltip on hover or focus.
 
 ::: good  
-![Figure: Good example - Tooltip gives clarity to an icon-only destructive button](destruction-button-good-tooltip.png)
+![Figure: Good example - Tooltip gives clarity to an icon-only delete button](destruction-button-good-tooltip.png)
 :::
 
 ## Ensure accessibility and keyboard navigation
@@ -121,7 +121,7 @@ Don't rely solely on color to convey meaning — red may be hard to distinguish 
 
 | **Element**        | **Best practice**                                                 |
 |--------------------|-------------------------------------------------------------------|
-| **Color**          | Use red for destructive buttons                                   |
+| **Color**          | Use red for delete buttons                                   |
 | **Label**          | Always include a text label (e.g. "Delete", "Remove")             |
 | **Icon**           | Use a trash can or similar, to the left of label                  |
 | **Placement**      | Isolate from primary/positive actions                             |
@@ -133,5 +133,32 @@ Don't rely solely on color to convey meaning — red may be hard to distinguish 
 For more guidance on destructive actions in UI design:
 
 * [NNG: Confirmation Dialogs Can Prevent User Errors — If Not Overused](https://www.nngroup.com/articles/confirmation-dialog/)
-* [Material Design: Error & Destructive Actions](https://m3.material.io/foundations/error-handling/overview)
 * [Microsoft Design: Commanding Destructive Actions](https://learn.microsoft.com/en-us/windows/apps/design/controls/buttons#destructive-commands)
+
+---
+
+::: greybox
+
+## Bug reports examples
+
+Check out how SSW manages UI bugs across our many products and teams using [YakShaver](https://yakshaver.ai/). Smarter workflows. Fewer distractions.
+
+### 1. For YakShaver - UI Bug
+
+`youtube: https://www.youtube.com/embed/5uij0YJa4I4/`
+**Video: ✨ UI Update - Relocate Delete Project Button (1 min)**
+
+* [Watch on YouTube](https://www.youtube.com/watch?v=5uij0YJa4I4/) (1 min)  
+* [YakShaver UX Issue \#3034](https://github.com/SSWConsulting/SSW.YakShaver/issues/3034)  
+
+---
+
+### 2. For TinaCMS - UI Bug
+
+`youtube: https://www.youtube.com/embed/9h0Lp69K3Pk`
+**Video: 🐛 Bug - UI Button Color and Behavior Consistency (1 min)**
+
+* [Watch on YouTube](https://www.youtube.com/watch?v=9h0Lp69K3Pk) (1 min)
+* [TinaCMS UX Issue \#6076](https://github.com/tinacms/tinacms/issues/6076)
+
+:::

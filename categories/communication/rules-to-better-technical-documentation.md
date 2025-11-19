@@ -38,6 +38,8 @@ index:
   - use-will-not-should
   - use-try-again-instead-of-retry
   - use-bad-and-good-examples
+  - readable-screenshots
+  - hide-visual-clutter-in-screenshots
   - screenshots-tools
   - screenshots-avoid-walls-of-text
   - screenshots-add-branding
@@ -54,6 +56,7 @@ index:
   - hide-sensitive-information
   - do-you-know-all-the-symbols-on-the-keyboard
   - copy-text-from-image
+  - making-last-edited-clear
 
 ---
 
